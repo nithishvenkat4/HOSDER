@@ -2,7 +2,7 @@ import streamlit as st
 from scheduler.inventory import calculate_eoq
 
 
-st.markdown("### 📌 EOQ Explanation")
+st.markdown("###  EOQ Explanation")
 st.write("""
 EOQ determines the optimal order quantity that minimizes:
 - Ordering cost
